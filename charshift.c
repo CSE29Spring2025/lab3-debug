@@ -12,8 +12,8 @@ void shift_chars(char *str, int amount) {
 }
 
 int main(void) {
-    char message[] = "Rkpa pk atpajz QLwoo jatp saag bkn bnaa lqxhey pnwjoep wjz "
-                     "YKWOPAN wyyaoo!";
+    char message[] = "Whpdkqcd ukq ywj wrkez zaxqccejc wjz fqop snepa lanbayp ykza pdwp skngo kj ukqn benop pnu, pdeo eo jaran pda ywoa bkn ykilhat lnkcnwio!"
+;
 
     shift_chars(message, CHARSHIFT);
     puts(message);
